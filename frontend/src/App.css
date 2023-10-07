@@ -1,0 +1,48 @@
+body {
+  font-family: 'Onest', sans-serif;
+  color: aliceblue;
+  background: linear-gradient(315deg, #7fcec5 0%, #22719e 74%); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.input-field {
+  margin-right: 0.5rem;
+  padding: 0.2rem;
+}
+.select-dropdown {
+  padding: 0.3rem ;
+  margin-right: 0.5rem;
+}
+.cards {
+  margin-bottom: 1rem;
+}
+.search-button {
+  margin-top: -2px;
+  padding: 0.3rem 0.7rem;
+}
+.card-image {
+  height: 150px;
+  object-fit: cover;
+}
+.buttons {
+  margin-top: auto;
+}
+.favourite-button {
+  background-color: #ffffff;
+  background-image: linear-gradient(315deg, #f5b7b7 0%, #f94a4a 74%);
+  font-size: 12px;
+}
+.visit-button {
+  background-color: #09c7fb;
+  background-image: linear-gradient(315deg, #09c7fb 20%, #93fb9d 90%);
+  font-size: 12px;
+}
+a:link {
+  color: white;
+  text-decoration: none; 
+}
+a:visited {
+  color: white;
+  text-decoration: none;
+}
